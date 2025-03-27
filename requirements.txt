@@ -1,0 +1,8 @@
+streamlit
+supabase-py
+pandas
+plotly
+streamlit
+yfinance
+pandas-datareader
+prophet
